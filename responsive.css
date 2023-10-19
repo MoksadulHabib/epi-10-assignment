@@ -1,0 +1,120 @@
+@media (max-width: 500px) {
+    h1{
+        font-size: 2.5rem;
+    }
+    h2{
+        font-size: 2rem;
+    }
+    h3{
+        font-size: 1.5rem;
+    }
+    h4{
+        font-size: 1rem;
+    }
+    h5{
+        font-size: .6rem;
+    }
+    p{
+        font-size: .8rem;
+    }
+    /* Header Area style Start */
+    .button_area a{
+        padding: .4rem .8rem;
+        font-size: .6rem;
+    }
+    .menu_area ul{
+        gap: 1.5rem;
+        margin-top: .2rem;
+    }
+    .menu_area ul li a{
+        font-size: .8rem;
+    }
+    .header_area{
+        padding: 1.5rem 0;
+    }
+    /* Hero Area Style Start */
+    .hero_content a{
+        border-radius: 4px;
+        padding: .8rem 1.6rem;
+        font-size: .8rem;
+    }
+
+    .hero_section{
+        padding: 2rem 0 4rem 0;
+    }
+    .hero_content p{
+        margin-bottom: 2rem;
+    }
+    /* About Area Style Start */
+    .about_section{
+        padding: 2rem 0;
+    }
+    .about_flex_container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .about_text_area{
+        margin-top: 1rem;
+    }
+    .about_text_area p{
+        margin: 1rem 0 1.8rem 0;
+    }
+    .about_text_area a{
+        border-radius: 4px;
+        padding: .8rem 1.6rem;
+        font-size: .8rem;
+    }
+    /* Portfolio Area Style Start */
+    .portfolio_section{
+        padding: 2rem 0 1rem 0;
+    }
+    .portfolio_flex_container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .portfolio_section a{
+        font-size: .8rem;
+    }
+    .portfolio_section p{
+        margin-bottom: .5rem;
+    }
+    /* Featured Area Style Start */
+    .featured_section{
+        padding: 2rem 0;
+    }
+    .featured_section h2{
+        margin-left: 2.8rem;
+    }
+    .featured_flex_container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem;
+    }
+    .featured_left p,
+    .featured_right p{
+        font-size: .8rem;
+        margin-bottom: 1rem;
+    }
+    .featured_section a{
+        font-size: .8rem;
+    }
+    /* Footer Area Style Start */
+    .footer_area{
+        padding: 2rem 0;
+    }
+    .social_icons ul{
+        gap: 1rem;
+    }
+    .social_icons img{
+        width: 70%;
+    }
+    .copyright_text p{
+        font-size: .8rem;
+    }
+}
